@@ -1,0 +1,9 @@
+---
+title: "ECGbiostatmat"
+author: "Rodrigo Buhler"
+date: "August 24, 2016"
+output: html_document
+---
+Source of original code: https://www.r-bloggers.com/ecg-signal-processing/
+
+---
